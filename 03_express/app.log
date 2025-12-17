@@ -1,0 +1,11 @@
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/coffees\",\"status\":\"201\",\"responseTime\":\"108.952\"}","timestamp":"2025-08-20T19:08:35.370Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/coffees\",\"status\":\"201\",\"responseTime\":\"0.868\"}","timestamp":"2025-08-20T19:08:55.110Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"A post request is made to add a new coffee","timestamp":"2025-08-20T19:13:27.385Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/coffees\",\"status\":\"201\",\"responseTime\":\"8.390\"}","timestamp":"2025-08-20T19:13:27.395Z"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"A post request is made to add a new coffee","timestamp":"2025-08-20T19:17:04.380Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/coffees\",\"status\":\"201\",\"responseTime\":\"6.845\"}","timestamp":"2025-08-20T19:17:04.389Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/coffees\",\"status\":\"201\",\"responseTime\":\"3.169\"}","timestamp":"2025-08-20T19:18:05.278Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/coffees\",\"status\":\"201\",\"responseTime\":\"0.514\"}","timestamp":"2025-08-20T19:18:13.957Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/coffee\",\"status\":\"200\",\"responseTime\":\"0.951\"}","timestamp":"2025-08-20T19:18:52.271Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/coffee/2\",\"status\":\"404\",\"responseTime\":\"24.124\"}","timestamp":"2025-08-20T19:19:39.544Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/coffees/2\",\"status\":\"200\",\"responseTime\":\"0.595\"}","timestamp":"2025-08-20T19:19:49.093Z"}
